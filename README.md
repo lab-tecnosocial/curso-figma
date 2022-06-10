@@ -4,7 +4,7 @@ Materiales del "Curso de diseño de Uis con Figma" dirigido al voluntarios del L
 
 Contenido:
 
-- **Introducción al diseño Ui/Ux**
+- [1. Introducción al diseño Ui/Ux](https://github.com/lab-tecnosocial/curso-figma/tree/main/1-introduccion-dise%C3%B1o-ui)
     - ¿Qué es el diseño Ui-Ux?
     - Ideas erróneas sobre los diseñadores Ui-Ux
     - Tipos de tareas desarrolladas por un diseñador Ui-Ux
@@ -14,7 +14,7 @@ Contenido:
         - Idear
         - Prototipar
         - Probar
-- **Herramientas básicas para wireframing**
+- [2. Herramientas básicas para wireframing](https://github.com/lab-tecnosocial/curso-figma/tree/main/2-wireframe)
     - ¿Qué es un wireframe?
     - ¿Qué es Figma?
     - Iniciar sesión en Figma
@@ -24,13 +24,13 @@ Contenido:
     - Crear frames
     - Crear figuras geométricas y cuadros de texto
     - Los grupos
-- **Construcción de un prototipo de alta fidelidad**
+- [3. Construcción de un prototipo de alta fidelidad](https://github.com/lab-tecnosocial/curso-figma/tree/main/3-construccion_prototipo)
     - Páginas dentro un documento
     - Crear componentes
     - Opciones de texto
     - Opciones de color
     - Alineamiento
-- **Herramientas para la construcción de la página de inicio de un sitio web**
+- [4. Herramientas para la construcción de la página de inicio de un sitio web](https://github.com/lab-tecnosocial/curso-figma/tree/main/4-herramientas-sitioweb)
     - Estructura típica del inicio de una página web
     - Herramientas para construir paletas de colores
         - Coolors
