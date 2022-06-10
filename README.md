@@ -1,6 +1,8 @@
-# Contenido del curso
+# Curso Figma
 
-Materiales y contenido del curso de diseño de Uis con Figma.
+Materiales del "Curso de diseño de Uis con Figma" dirigido al voluntarios del Lab TecnoSocial, 2022.
+
+Contenido:
 
 - **Introducción al diseño Ui/Ux**
     - ¿Qué es el diseño Ui-Ux?
@@ -42,4 +44,4 @@ Materiales y contenido del curso de diseño de Uis con Figma.
         - Pinterest
         - Dribbble
 
-**Facilitadora**: Valeria Peredo Rodríguez
+**Facilitadora**: [Valeria Peredo Rodríguez](https://github.com/valeipr)
