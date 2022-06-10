@@ -38,4 +38,4 @@ Las tareas realizadas por los diseñadores Ui-Ux no se limitan a cuestiones est�
 
 ### El proceso de diseño
 
-![Captura de pantalla 2022-06-09 a la(s) 10.12.06.png](Introduccio%CC%81n%20al%20disen%CC%83o%20Ui-Ux%202a9962fe98e64ca19093e28d5fa6ae6b/Captura_de_pantalla_2022-06-09_a_la(s)_10.12.06.png)
+![Captura de pantalla 2022-06-09 a la(s) 10.12.06.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_10.12.06.png)
