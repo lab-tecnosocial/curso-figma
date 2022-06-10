@@ -6,7 +6,7 @@
 - Diseño Ui: Tiene que ver con la interfaz con la que interactúa un usuario. Su objetivo es que el usuario pueda interactuar con la mayor facilidad posible con un producto. Busca que los diseños sean simples y eficientes
 - **Normalmente ambos trabajos se confunden, interactúan y dependen mutuamente**
 
-![Captura de pantalla 2022-06-09 a la(s) 10.03.19.png](Introduccio%CC%81n%20al%20disen%CC%83o%20Ui-Ux%202a9962fe98e64ca19093e28d5fa6ae6b/Captura_de_pantalla_2022-06-09_a_la(s)_10.03.19.png)
+![Captura de pantalla 2022-06-09 a la(s) 10.03.19.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_10.03.19.png)
 
 ### Ideas erróneas sobre lo que implica ser diseñador Ui-Ux
 

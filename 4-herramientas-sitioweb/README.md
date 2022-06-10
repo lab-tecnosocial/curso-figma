@@ -12,7 +12,7 @@ Una página web típica está compuesta de cinco secciones:
 
 Puedes observar esta estructura en el siguiente wireframe.
 
-![webpage.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/webpage.png)
+![webpage.png](./img/webpage.png)
 
 ### Herramientas para construir paletas de colores
 
@@ -20,13 +20,13 @@ Puedes observar esta estructura en el siguiente wireframe.
 
 Esta herramienta gratuita nos permite generar paletas de colores a partir de un generador. Las paletas de colores se van generando al azar y podemos escogerlas y descargarlas para nuestros proyectos. Visitar: [https://coolors.co/generate](https://coolors.co/generate)
 
-![Captura de pantalla 2022-06-09 a la(s) 12.25.19.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/Captura_de_pantalla_2022-06-09_a_la(s)_12.25.19.png)
+![Captura de pantalla 2022-06-09 a la(s) 12.25.19.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_12.25.19.png)
 
 **Color Palette Generator (Canva)**
 
 Esta herramienta desarrollada por canva nos permite obtener paletas de colores a partir de fotos que podemos importar. Visitar: [https://www.canva.com/colors/color-palette-generator/](https://www.canva.com/colors/color-palette-generator/)
 
-![Captura de pantalla 2022-06-09 a la(s) 12.22.47.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/Captura_de_pantalla_2022-06-09_a_la(s)_12.22.47.png)
+![Captura de pantalla 2022-06-09 a la(s) 12.22.47.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_12.22.47.png)
 
 ### Herramientas para obtener íconos
 
@@ -34,7 +34,7 @@ Esta herramienta desarrollada por canva nos permite obtener paletas de colores a
 
 Flaticon es un sitio web que ofrece cientos de íconos gratis para utilizar en nuestros proyectos. Visitar: [https://www.flaticon.es/](https://www.flaticon.es/)
 
-![Captura de pantalla 2022-06-09 a la(s) 12.26.34.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/Captura_de_pantalla_2022-06-09_a_la(s)_12.26.34.png)
+![Captura de pantalla 2022-06-09 a la(s) 12.26.34.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_12.26.34.png)
 
 ### Herramientas para generar tipografías
 
@@ -44,13 +44,13 @@ Existen herramientas que nos permiten descargar diversas tipografías y nos ayud
 
 Visitar: [https://fonts.google.com/](https://fonts.google.com/)
 
-![Captura de pantalla 2022-06-09 a la(s) 12.27.58.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/Captura_de_pantalla_2022-06-09_a_la(s)_12.27.58.png)
+![Captura de pantalla 2022-06-09 a la(s) 12.27.58.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_12.27.58.png)
 
 **Font Pair**
 
 Visitar: [https://www.fontpair.co/](https://www.fontpair.co/)
 
-![Captura de pantalla 2022-06-09 a la(s) 12.29.32.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/Captura_de_pantalla_2022-06-09_a_la(s)_12.29.32.png)
+![Captura de pantalla 2022-06-09 a la(s) 12.29.32.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_12.29.32.png)
 
 ### Fuentes de inspiración para diseñar
 
@@ -60,10 +60,10 @@ Para construir nuestros sitios web, es bastante útil observar las ideas de otro
 
 Visitar: [https://dribbble.com/](https://dribbble.com/)
 
-![Captura de pantalla 2022-06-09 a la(s) 12.32.06.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/Captura_de_pantalla_2022-06-09_a_la(s)_12.32.06.png)
+![Captura de pantalla 2022-06-09 a la(s) 12.32.06.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_12.32.06.png)
 
 **Pinterest**
 
 Visitar: [https://www.pinterest.es/](https://www.pinterest.es/)
 
-![Captura de pantalla 2022-06-09 a la(s) 12.33.03.png](Herramientas%20para%20la%20construccio%CC%81n%20de%20la%20pa%CC%81gina%20d%204bad8952b9694bb499c9a35e15fa464b/Captura_de_pantalla_2022-06-09_a_la(s)_12.33.03.png)
+![Captura de pantalla 2022-06-09 a la(s) 12.33.03.png](./img/Captura_de_pantalla_2022-06-09_a_la(s)_12.33.03.png)
