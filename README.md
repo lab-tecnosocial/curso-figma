@@ -1,6 +1,6 @@
 # Curso Figma
 
-Materiales del "Curso de diseño de Uis con Figma" dirigido al voluntarios del Lab TecnoSocial, 2022.
+Materiales del curso de "Diseño de Uis con Figma" dirigido al voluntarios del área de comunicación del Lab TecnoSocial, 2022.
 
 Contenido:
 
